@@ -1,0 +1,3 @@
+﻿  Isosurface.cxx
+C:\Users\Fitrah\Desktop\isosurface\Isosurface.cxx(74,16): warning C4101: 'dist': unreferenced local variable
+  isosurface.vcxproj -> C:\Users\Fitrah\Desktop\isosurface\build\Debug\isosurface.exe

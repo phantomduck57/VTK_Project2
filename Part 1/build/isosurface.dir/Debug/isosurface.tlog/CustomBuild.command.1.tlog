@@ -1,0 +1,10 @@
+^C:\USERS\FITRAH\DESKTOP\ISOSURFACE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Fitrah/Desktop/isosurface -BC:/Users/Fitrah/Desktop/isosurface/build --check-stamp-file C:/Users/Fitrah/Desktop/isosurface/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

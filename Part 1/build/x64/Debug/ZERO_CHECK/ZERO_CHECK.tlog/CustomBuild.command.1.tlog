@@ -1,0 +1,10 @@
+^C:\USERS\FITRAH\DESKTOP\ISOSURFACE\BUILD\CMAKEFILES\7D83A229531B555AFB05194B7C9BC2B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Fitrah/Desktop/isosurface -BC:/Users/Fitrah/Desktop/isosurface/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Fitrah/Desktop/isosurface/build/isosurface.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
