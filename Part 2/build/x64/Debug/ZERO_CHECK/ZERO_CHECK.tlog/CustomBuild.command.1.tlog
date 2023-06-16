@@ -1,0 +1,10 @@
+^C:\USERS\HAIKA\DOCUMENTS\VTK-PROJECT\CAROTIDFLOWGLYPHS\BUILD\CMAKEFILES\E16C57E2FBEFB8C3F7AA281C79E976F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/haika/Documents/VTK-Project/CarotidFlowGlyphs -BC:/Users/haika/Documents/VTK-Project/CarotidFlowGlyphs/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/haika/Documents/VTK-Project/CarotidFlowGlyphs/build/CarotidFlowGlyphs.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

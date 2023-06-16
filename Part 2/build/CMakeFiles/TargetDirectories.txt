@@ -1,0 +1,3 @@
+C:/Users/haika/Documents/VTK-Project/CarotidFlowGlyphs/build/CMakeFiles/CarotidFlowGlyphs.dir
+C:/Users/haika/Documents/VTK-Project/CarotidFlowGlyphs/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/haika/Documents/VTK-Project/CarotidFlowGlyphs/build/CMakeFiles/ZERO_CHECK.dir

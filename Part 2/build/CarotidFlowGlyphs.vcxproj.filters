@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\haika\Documents\VTK-Project\CarotidFlowGlyphs\CarotidFlowGlyphs.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haika\Documents\VTK-Project\CarotidFlowGlyphs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82D4D237-F003-3DD1-B43A-82456CA187A7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\haika\Documents\VTK-Project\CarotidFlowGlyphs\build\CMakeFiles\e16c57e2fbefb8c3f7aa281c79e976f1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CCFD9C58-793E-33FC-B5EE-A4BEBC13974F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
