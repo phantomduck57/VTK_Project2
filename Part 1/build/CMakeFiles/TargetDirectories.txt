@@ -1,0 +1,3 @@
+C:/Users/Fitrah/Desktop/isosurface/build/CMakeFiles/isosurface.dir
+C:/Users/Fitrah/Desktop/isosurface/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Fitrah/Desktop/isosurface/build/CMakeFiles/ZERO_CHECK.dir
